@@ -134,8 +134,8 @@ curl -X POST http://127.0.0.1:5000/predict \
 
 ## Authors
 - **Developed by**: Udit Srivastava
-- **Contact**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
+- **Contact**: [uditsrivastava2347@gmail.com](mailto:uditsrivastava2347@gmail.com)
+- **GitHub**: https://github.com/Udit11
 
 ---
 
