@@ -141,9 +141,3 @@ curl -X POST http://127.0.0.1:5000/predict \
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Download
-This `README.md` can be downloaded as a standalone file for reference:
-[Download README.md](https://raw.githubusercontent.com/your-username/Insurance-Premium-Prediction/main/README.md)
